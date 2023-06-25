@@ -1,6 +1,6 @@
 - 👋 Hola, mi nombre es @jorgeandrespachon
 - 👀 Estoy interesado en programacion 
-- 🌱 actualemnte estoy iniciando aprendizaje en ciencia de datos 
+- 🌱 actualmente estoy iniciando aprendizaje en ciencia de datos 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Ponte en contacto conmigo en 
 
